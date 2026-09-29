@@ -20,9 +20,9 @@ exercises.
 - Build practical cybersecurity projects
 - Prepare for cybersecurity internships
 
-## 📚 Topics
+## 🖥️ Topics
 
-1.[Networking](./Networking_Notes.md)
+1. [Networking](./Networking_Notes.md)
 2. Linux
 3. Windows
 4. Cybersecurity Fundamentals
