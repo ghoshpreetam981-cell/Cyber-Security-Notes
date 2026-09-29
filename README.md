@@ -22,7 +22,7 @@ exercises.
 
 ## 📚 Topics
 
-1. Networking
+1. [Networking]{./Netorking_Notes.md}
 2. Linux
 3. Windows
 4. Cybersecurity Fundamentals
